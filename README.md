@@ -28,4 +28,8 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/username/mern-employee-management.git
-cd mern-employee-management
+cd BACKEND
+npm init -y
+
+''' 
+
