@@ -40,11 +40,23 @@ npm install express mongoose cors dotenv
 ### 3.Create a .env file to store environment variables:
 MONGO_URI=your_mongodb_atlas_url
 
+### 4. Start your backend server
+```bash
+node server.js
+```
+
 ```bash
 cd ..
 cd FRONTEND
 ```
-### Initialize a React app
+### Install Axios for making HTTP requests
 ```bash
+npm install axios
+```
+### Start the frontend React app
+```bash
+npm start
+
+
 
 
