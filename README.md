@@ -56,6 +56,9 @@ npm install axios
 ### Start the frontend React app
 ```bash
 npm start
+```
+### final output will be 
+![3D Visualization](https://github.com/moseskiran006/MERN-EMPLOYEE-MANAGEMENT/blob/main/Screenshot%202024-09-29%20010341.png)
 
 
 
