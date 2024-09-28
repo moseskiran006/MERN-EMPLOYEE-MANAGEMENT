@@ -30,6 +30,21 @@ To run this project locally, follow these steps:
 git clone https://github.com/username/mern-employee-management.git
 cd BACKEND
 npm init -y
+```
+### 2.Then install dependencies
 
-''' 
+```bash
+npm install express mongoose cors dotenv
+
+```
+### 3.Create a .env file to store environment variables:
+MONGO_URI=your_mongodb_atlas_url
+
+```bash
+cd ..
+cd FRONTEND
+```
+### Initialize a React app
+```bash
+
 
